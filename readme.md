@@ -3,7 +3,7 @@
 <img src="./media/image1.jpeg" style="width:6.96875in;height:4.33333in"
 alt="The next revolution: could Gen AI bring RegTech into a new age? - FinTech Global" />
 
-## Building Systems with the ChatGPT API
+## Section 1. Building Systems with the ChatGPT API
 
 Welcome to learn to an applications systems using the ChatGPT API.
 
