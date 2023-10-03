@@ -43,3 +43,4 @@ process of developing an LLM-based application feels like, and some best
 practices for evaluating and improving a system over time.
 
 Let's dive in!
+## Practice
